@@ -1,0 +1,2 @@
+- Q: why?
+- A: just to don't download directx sdk june 2010 for old games
